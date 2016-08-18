@@ -1,0 +1,17 @@
+{
+    "name": "patuaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "LatinoType"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/patuaone-bower.git"
+    },
+    "description": "Patua One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
